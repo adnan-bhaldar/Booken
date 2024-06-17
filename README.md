@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/booken)
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/booken?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/booken?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar_?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
   [![YouTube Video Views](https://img.shields.io/youtube/views/iHsVNWmcBAs?style=social)](https://youtu.be/iHsVNWmcBAs)
 
   <br />
